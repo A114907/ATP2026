@@ -26,5 +26,6 @@ https://blockly.games/maze?lang=pt&level=10&&skin=0#twdgng
 Imagem e link com a figura do barco
 
 <img width="792" height="556" alt="Captura de ecrã 2026-09-21, às 19 57 19" src="https://github.com/user-attachments/assets/145d0ed4-a73c-4cf9-9bd2-35994033a9ca" />
+<img width="404" height="401" alt="Captura de ecrã 2026-09-21, às 19 59 30" src="https://github.com/user-attachments/assets/2d88d471-bf59-4c0e-bcb3-6d18fe8c44a1" />
 
 https://blockly.games/turtle?lang=pt&level=10#qybj78
